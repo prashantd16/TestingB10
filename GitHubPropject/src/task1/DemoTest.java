@@ -5,5 +5,8 @@ public class DemoTest {
 
 		System.out.println("git demo");
 		System.out.println("changes");
+		System.out.println("pull");
+		
+		
 	}
 }
